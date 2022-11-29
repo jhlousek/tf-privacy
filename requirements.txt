@@ -1,0 +1,4 @@
+scipy >= 0.17
+mpmath
+tensorflow_datasets
+tensorflow-privacy
